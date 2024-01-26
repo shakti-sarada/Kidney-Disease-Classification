@@ -12,3 +12,4 @@ src/KidneyDiseaseClassifier/constants/__init__.py
 src/KidneyDiseaseClassifier/entity/__init__.py
 src/KidneyDiseaseClassifier/pipeline/__init__.py
 src/KidneyDiseaseClassifier/utils/__init__.py
+src/KidneyDiseaseClassifier/utils/common.py
