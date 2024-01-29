@@ -3,3 +3,13 @@
 [2024-01-26 16:36:24,113: INFO: main: Welcome to Loggings.]
 [2024-01-26 16:44:50,562: INFO: main: Welcome to Loggings.]
 [2024-01-26 16:45:04,258: INFO: main: Welcome to Loggings.]
+[2024-01-28 17:30:22,440: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-01-28 17:30:22,440: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-28 17:30:22,440: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-28 17:30:22,440: INFO: common: created directory at: artifacts]
+[2024-01-28 17:30:22,440: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-28 17:30:22,440: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/128et0biM5niDBUFg0vwtosIyo4Yvkt2C/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-28 17:33:51,685: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/128et0biM5niDBUFg0vwtosIyo4Yvkt2C/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-01-28 17:34:05,764: INFO: main: >>>>> Data Ingestion stage completed <<<<<<
+
+x=========x]
