@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Desktop/Kidney-Disease-Classification/mlruns/0/366624de95a14dd995e3a5bd867273cc/artifacts
+end_time: 1706995510027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366624de95a14dd995e3a5bd867273cc
+run_name: unequaled-whale-217
+run_uuid: 366624de95a14dd995e3a5bd867273cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706995498268
+status: 3
+tags: []
+user_id: dell

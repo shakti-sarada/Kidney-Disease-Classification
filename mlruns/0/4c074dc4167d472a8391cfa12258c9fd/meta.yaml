@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dell/Desktop/Kidney-Disease-Classification/mlruns/0/4c074dc4167d472a8391cfa12258c9fd/artifacts
+end_time: 1706992654932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c074dc4167d472a8391cfa12258c9fd
+run_name: redolent-trout-675
+run_uuid: 4c074dc4167d472a8391cfa12258c9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706992641326
+status: 3
+tags: []
+user_id: dell
