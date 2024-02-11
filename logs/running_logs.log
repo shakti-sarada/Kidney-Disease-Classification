@@ -551,3 +551,25 @@ x==========x]
  * Running on http://192.168.90.113:8080]
 [2024-02-05 19:03:24,723: INFO: _internal: [33mPress CTRL+C to quit[0m]
 [2024-02-05 19:03:38,021: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 19:03:38] "GET / HTTP/1.1" 200 -]
+[2024-02-05 21:04:06,361: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.90.113:8080]
+[2024-02-05 21:04:06,362: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-02-05 21:04:24,966: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 21:04:24] "GET / HTTP/1.1" 200 -]
+[2024-02-05 21:04:55,537: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 21:04:55] "POST /predict HTTP/1.1" 200 -]
+[2024-02-05 21:05:07,879: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 21:05:07] "POST /predict HTTP/1.1" 200 -]
+[2024-02-05 21:05:27,091: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-05 21:05:27,091: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-05 21:05:27,091: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-05 21:05:27,091: INFO: common: created directory at: artifacts]
+[2024-02-05 21:05:27,091: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-05 21:05:27,091: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/128et0biM5niDBUFg0vwtosIyo4Yvkt2C/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-02-05 21:36:09,875: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.90.113:8080]
+[2024-02-05 21:36:09,875: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-02-05 21:36:15,641: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 21:36:15] "GET / HTTP/1.1" 200 -]
+[2024-02-05 21:36:52,387: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 21:36:52] "GET / HTTP/1.1" 200 -]
+[2024-02-05 21:37:06,733: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 21:37:06] "POST /predict HTTP/1.1" 200 -]
